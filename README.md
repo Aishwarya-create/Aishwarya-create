@@ -2,7 +2,7 @@
 
 ### Software Engineer III | Backend & Distributed Systems | Java & Spring Boot
 
-I'm a backend engineer with **5.5+ years of software engineering experience**, currently working at **Walmart Global Tech** on international **Identity & Access Management (IAM)** systems.
+I'm a backend engineer with **6+ years of software engineering experience**, currently working at **Walmart Global Tech** on international **Identity & Access Management (IAM)** systems.
 
 I enjoy building reliable backend services, working on authentication and authorization flows, and solving problems involving **distributed systems, APIs, data, and system design**.
 
