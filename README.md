@@ -1,12 +1,14 @@
 # Hey there 👋 I'm Aishwarya!
 
-### Software Engineer III | Backend & Distributed Systems | Java & Spring Boot
+### Software Engineer III | Backend & Distributed Systems | Java & Spring Boot | Exploring AI Engineering
 
 I'm a backend engineer with **6+ years of software engineering experience**, currently working at **Walmart Global Tech** on international **Identity & Access Management (IAM)** systems.
 
-I enjoy building reliable backend services, working on authentication and authorization flows, and solving problems involving **distributed systems, APIs, data, and system design**.
+I enjoy building reliable backend services, designing authentication and authorization flows, and solving complex problems involving **distributed systems, APIs, data, security, and system design.**
 
-My current focus is on building deeper expertise in **system design, concurrency, scalable architectures, and security-focused backend engineering**.
+I'm also an **AI enthusiast**, curious about how Large Language Models and AI-powered systems can transform the way software is built. I'm actively exploring **Python, LLMs, Generative AI, RAG, embeddings, vector databases, and AI agents**, with a particular interest in combining AI capabilities with scalable backend architectures.
+
+My goal is to continuously evolve as an engineer — building strong backend foundations while exploring the possibilities of AI engineering.
 
 ---
 
