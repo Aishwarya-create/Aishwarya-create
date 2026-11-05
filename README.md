@@ -36,6 +36,21 @@ Some areas I've worked across:
 * Contributing to **production readiness, observability, and reliability** of critical services
 
 ---
+### 🤖 Exploring AI & Generative AI
+
+I'm expanding my engineering knowledge into AI, focusing on understanding how modern AI systems work and how they can be integrated into real-world applications.
+
+Areas I'm currently exploring:
+
+* **Python & Jupyter Notebooks**: Learning and experimenting with Python-based AI concepts
+* **LLM Fundamentals**: Understanding language models, tokenization, model behavior, and instruction tuning
+* **Prompt Engineering**: Zero-shot, few-shot prompting, and structured prompting techniques
+* **Embeddings & Vector Databases**: Understanding semantic search, vector representations, and similarity search
+* **Retrieval-Augmented Generation (RAG)**: Connecting LLMs with external knowledge and contextual information
+* **AI Agents**: Exploring agent workflows, tool calling, reasoning, and multi-step task execution
+* **AI-assisted Software Engineering**: Exploring how AI tools can improve developer productivity and engineering workflows
+
+I'm particularly interested in the **intersection of AI, backend engineering, distributed systems, and scalable application architecture.**
 
 ### 🧠 Currently exploring
 
@@ -45,7 +60,8 @@ Some areas I've worked across:
 * Scalable Event-Driven Architectures
 * Identity, Authentication & Authorization
 * Cloud Architecture
-* AI-assisted Software Engineering
+* Python & AI Engineering Fundamentals
+* LLMs, RAG & Agentic AI
 
 ---
 
@@ -53,6 +69,8 @@ Some areas I've worked across:
 
 * Java / Spring Boot backend projects
 * Distributed systems & event-driven applications
+* AI-powered backend applications
+* LLM, RAG and AI agent experiments
 * Developer tools and open-source projects
 * Projects solving interesting real-world problems
 
@@ -61,6 +79,8 @@ Some areas I've worked across:
 ### 💬 Ask me about
 
 **Java • Spring Boot • REST APIs • Kafka • IAM • OAuth/OIDC • JWT • WebAuthn • Distributed Systems • Backend Architecture**
+
+I'm also happy to discuss my learning journey in **Python, LLMs, RAG, Generative AI and AI agents.**
 
 ---
 
